@@ -30,6 +30,7 @@ namespace testGit
 
         private void myButton_Click(object sender, RoutedEventArgs e)
         {
+        //Modif depuis le future distant
             myButton.Content = "Clicked";
         }
     }
